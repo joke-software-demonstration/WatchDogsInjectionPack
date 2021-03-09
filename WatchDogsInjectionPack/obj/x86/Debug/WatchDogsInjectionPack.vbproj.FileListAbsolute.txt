@@ -1,0 +1,33 @@
+C:\Users\user\AppData\Local\Temporary Projects\WatchDogsInjectionPack\bin\Debug\WatchDogsInjectionPack.exe
+C:\Users\user\AppData\Local\Temporary Projects\WatchDogsInjectionPack\bin\Debug\WatchDogsInjectionPack.pdb
+C:\Users\user\AppData\Local\Temporary Projects\WatchDogsInjectionPack\bin\Debug\WatchDogsInjectionPack.xml
+C:\Users\user\AppData\Local\Temporary Projects\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.exe
+C:\Users\user\AppData\Local\Temporary Projects\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.xml
+C:\Users\user\AppData\Local\Temporary Projects\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.pdb
+C:\Users\user\AppData\Local\Temporary Projects\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.GameNotRunning.resources
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.exe
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.xml
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.pdb
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\bin\Debug\WatchDogsInjectionPack.exe
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\bin\Debug\WatchDogsInjectionPack.pdb
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\bin\Debug\WatchDogsInjectionPack.xml
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.Form1.resources
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.GameNotRunning.resources
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.Resources.resources
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.vbproj.GenerateResource.Cache
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.Form3.resources
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.Credits.resources
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\bin\Debug\Interop.WMPLib.dll
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\bin\Debug\AxInterop.WMPLib.dll
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\obj\x86\Debug\Interop.WMPLib.dll
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.vbproj.ResolveComReference.cache
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.HowDareYou.resources
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.AmigoVirus.resources
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\bin\Debug\WatchDogsInjectionPack.exe.manifest
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\bin\Debug\WatchDogsInjectionPack.application
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.exe.manifest
+D:\Development\Visual Basic 2010 Express\Source\WatchDogsInjectonPack\VSPROJ\WatchDogsInjectionPack\WatchDogsInjectionPack\obj\x86\Debug\WatchDogsInjectionPack.application
